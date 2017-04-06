@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Kroatien mit dem Boot</name>
+		<description><![CDATA[Google Map mit interessanten Punkten in Reichweite]]></description>
+		<Folder>
+			<name>Interessante Punkte</name>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Mali Ždrelac</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Mali Ždrelac is a small strait in the Adriatic Sea located between the Croatian islands of Ugljan and Pašman. State road D110 passes over the strait via the Ždrelac Bridge which spans the entire strait. There is also a village called Ždrelac on the island of Pašman overlooking the strait.]]></description>
+				<Point>
+					<coordinates>15.2511193,44.014516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Osor</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Geschichte
+Osor, in der Antike Apsorus (auch Absorus, Absarus, griechisch Ἄψορρος Apsorros) und in byzantinischen Quellen Opsara genannt, ist die älteste Siedlung und die erste bedeutende Stadt von Cres und Lošinj. Unter der Herrschaft des Römischen Reichs wurde der Isthmus durch einen etwa 11 m breiten Graben getrennt und schiffbar gemacht. Nach dem Zerfall des Römischen Reiches kam Osor in den Herrschaftsbereich von Byzanz. Seit dem 6. Jahrhundert war es ein Bistum,[1] das der Kirchenprovinz Salona zugeordnet war; auf das Bistum geht das Titularbistum Absorus der römisch-katholischen Kirche zurück.Im 9. Jahrhundert griffen die Sarazenen Osor an und zerstörten die Kathedrale und im 14. Jahrhundert die Republik Genua, die ebenfalls die Kathedrale zerstörten.Osor erhielt in der Antike sein Stadtrecht und war bis zum 14. Jahrhundert die Hauptstadt dieser Inselgruppe. Zeugen dieser Zeit sind v.a. die alles dominierende Kathedrale von Osor, in der heute Konzerte stattfinden. Zu Zeiten venezianischer Herrschaft war der Römergraben versandet und Schiffe und Waren mussten etwa 100 Meter über das Festland gebracht werden.Im Mittelalter hatte Osor seine Blütezeit, es lebten dort bis zu 30 000 Menschen.Osor wurde im Mittelalter wegen der Nähe eines großen Sumpfgebietes regelmäßig von Malariaepidemien heimgesucht. Daher verlegte man die Inselverwaltung nach Cres.Die kroatische Währung Kuna (was übersetzt Marder bzw. Wiesel bedeutet) wurde in Osor das erste Mal im Jahr 1018 als Zahlungsmittel der Kroaten erwähnt. Ein kleines Denkmal in Form eines Marders bzw. Wiesels erinnert heute noch daran.
+
+Gegenwart
+Heute ist Osor eher ein kleiner ländlicher Weiler mit historischem Ortskern. Wirtschaftlich ist Osor heute ohne jeden Einfluss und es leben hier lediglich noch etwa 80, vorwiegend ältere Bewohner auf Dauer. Von Bedeutung ist neben der alten Kathedrale vor allem die stählerne Drehbrücke, die einerseits als Verbindungsader zwischen den beiden Hauptinseln Cres und Lošinj dient, andererseits noch immer zweimal täglich (um 09.00 und um 17.00 Uhr) geöffnet wird, um kleineren Schiffen die Kanaldurchfahrt zu ermöglichen. Die Haupteinkommensquelle in Osor ist der Tourismus.]]></description>
+				<Point>
+					<coordinates>14.3923973,44.6927401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Punat</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Startpunkt]]></description>
+				<Point>
+					<coordinates>14.6282969,45.0233942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Mali Losinj</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Mali Lošinj liegt auf dem gleichnamigen Inselteil Mali Lošinj (Klein-Lošinj) im Südosten der breiten und gut geschützten Bucht. Das Klima ist mild und die Winter warm; die durchschnittliche Lufttemperatur beträgt im Januar 7,3 °C und im Juli 24,7 °C. Die durchschnittliche Jahrestemperatur beträgt 15 °C.Die günstigen Klimaverhältnisse, der Bau von Hotels und Ferienanlagen, die Bewaldung und Einrichtung der Strände haben eine intensive Entwicklung des Tourismus bedingt. Der Ort liegt im geschütztesten Teil der Bucht. Der Großteil des Ortes liegt auf der östlichen, sonnigen Seite. Vom Südosten der Bucht aus führt eine Straße nach Veli Lošinj.Besonders beliebt ist Mali Lošinj bei den Seglern, da der Stadthafen und die etwas nördlich davon angelegte Marina guten Schutz gegen die Winde Bora und Jugo bieten. Von der Ostseite sind die beiden Häfen durch eine schmale Passage (Privlaka-Kanal) erreichbar. Die darüber führende Brücke wird dafür zweimal pro Tag für eine Viertelstunde (9.00 Uhr und 18.00 Uhr) geöffnet. Sonst müsste man um die gesamte Insel im Süden segeln, um Mali Lošinj zu erreichen.]]></description>
+				<Point>
+					<coordinates>14.468664899468422,44.532533886929755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Ist</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Die Insel liegt nördlich der Insel Molat und ist umgeben von vielen anderen kleinen und unbewohnten Inseln. Sie ist von Zadar aus mit der Fähre in 2,75 Stunden erreichbar. Auf Ist befindet sich ein gleichnamiger Ort, in dem größte Teil der Einwohner einen festen Wohnsitz besitzt. http://de.wikipedia.org/wiki/Ist_(Insel)]]></description>
+				<Point>
+					<coordinates>14.7602802,44.2768556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Bucht auf Dugi</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Die Insel trägt ihren Namen auf Grund ihrer geographischen Gestalt mit einer Länge von ca. 43 km bei einer Breite von nur ca. 5 km. Die höchste Erhebung der Insel liegt bei 300 m über NN. Dugi Otok hat 1.772 Einwohner. Während die Westküste weitgehend aus unzugänglicher Steilküste besteht, liegen fast alle bewohnten Ortschaften auf der Ostseite der Insel, die dem Festland zugewandt ist. Sali ist mit etwa 900 Einwohnern der größte Ort der Insel und inoffizielle „Inselhauptstadt“. Weitere größere Siedlungen sind Božava, Brbinj, Luka, Zaglav und Žman. Dugi Otok besitzt keine Süßwasserquellen. Deshalb kommen wöchentliche Wassertransporte mit dem Schiff. Die Insel grenzt im Süden an den Nationalpark Kornaten.]]></description>
+				<Point>
+					<coordinates>14.8731236,44.1332656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Sali - Hauptstadt von Dugi</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Sali ist die größte Ortschaft auf der Insel Dugi Otok in Kroatien. Der kleine Hafenort befindet sich an der gleichnamigen Bucht am südlichen Teil der Insel. Sali ist zudem Verwaltungssitz des Naturparks Telascica.Der Name Sali ist wohl darauf zurückzuführen, dass dem früheren Zentrum des Fischfangs der Region ein Salzmagazin zur Fischkonservierung angehörte.Erreichbar ist Sali mit der Personenfähre aus Zadar, während die Autofähre in Brbinj anlegt.]]></description>
+				<Point>
+					<coordinates>15.164967699999998,43.9378414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Zadar Marina</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Marina ZadarIvana Meštrovića 223 000 Zadar, Hrvatskatel. ++385 23 204 850204 700]]></description>
+				<Point>
+					<coordinates>15.228747300000002,44.1187848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<name>Susak</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Susak ist eine sanft hügelige Insel, die Fläche beträgt 3,7 km². Die Ausdehnung der Insel beträgt maximal 3 km x 1,5 km. Der höchste Punkt der Insel ist der 96 m hohe Garba, auf dem ein Leuchtturm steht. Die Insel besteht aus einem Kalksteinsockel überlagert von sandigem Lehm und ist überwiegend mit Schilfrohr, Brombeere, Jasmin und Weinstöcken bewachsen. Die Insel wirkt dadurch (auch im Sommer) sehr grün und hebt sich durch diese Flora deutlich im Aussehen von den benachbarten Inseln (z. B. Unije und Ilovik) ab. Südöstlich der einzigen Siedlung der Insel befindet sich eine flache Sandbucht (Bok).]]></description>
+				<Point>
+					<coordinates>14.311255775392056,44.51254244952225,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Mögliche Route</name>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt2 Von Osor nach Susak</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>28.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[km: 28]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.3923259,44.6928202,0.0 14.3914568,44.6932016,0.0 14.390384,44.6938346,0.0 14.389665100000002,44.6953981,0.0 14.3881416,44.6979148,0.0 14.384665499999999,44.7011788,0.0 14.378442800000002,44.7038021,0.0 14.3723488,44.7056932,0.0 14.362392400000001,44.7088957,0.0 14.3518782,44.7120066,0.0 14.346900000000002,44.7132875,0.0 14.341836,44.7137144,0.0 14.3381882,44.713196,0.0 14.3355274,44.7105732,0.0 14.333725,44.7060287,0.0 14.332265899999998,44.6995316,0.0 14.331665,44.6908677,0.0 14.332008400000001,44.679151,0.0 14.3333817,44.6588854,0.0 14.335098300000002,44.6325051,0.0 14.3340683,44.6110011,0.0 14.3302917,44.5892447,0.0 14.328231800000001,44.57335,0.0 14.3260002,44.5698037,0.0 14.322052,44.5658903,0.0 14.3189621,44.5596527,0.0 14.3175888,44.5508455,0.0 14.3165588,44.5388559,0.0 14.3151855,44.5246609,0.0 14.3138552,44.5181128,0.0 14.3114519,44.5125893,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt3 Nicht weit nach Mali</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>15.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[km: 15]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.3112558,44.5125424,0.0 14.3214512,44.5138287,0.0 14.332952500000001,44.5170724,0.0 14.350204500000002,44.5223355,0.0 14.371748,44.5282711,0.0 14.393549000000002,44.53855,0.0 14.4114017,44.5496834,0.0 14.423246399999998,44.5583684,0.0 14.4269371,44.5590411,0.0 14.4326019,44.5589188,0.0 14.438095099999998,44.5552493,0.0 14.4573212,44.54173120000001,0.0 14.468565,44.5324165,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt4 Von Mali Losinj nach Süden</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>41.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Achtung: Schifffahrtsroute ab Mali Losinj<br><br>km: 41]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.4686649,44.5325339,0.0 14.4674492,44.5337014,0.0 14.4655824,44.5352769,0.0 14.4630075,44.5375558,0.0 14.4602823,44.5407677,0.0 14.459660099999999,44.5437193,0.0 14.460260900000002,44.5453557,0.0 14.461569800000001,44.54677790000001,0.0 14.464702600000003,44.5469767,0.0 14.469487700000002,44.5451875,0.0 14.475238500000001,44.5421136,0.0 14.4782854,44.5399036,0.0 14.4811607,44.5373264,0.0 14.4896578,44.5307034,0.0 14.510364500000001,44.524049,0.0 14.5413494,44.4975461,0.0 14.5616055,44.4666824,0.0 14.599456799999999,44.4271603,0.0 14.6293259,44.389145000000006,0.0 14.6656322,44.352271,0.0 14.689064,44.3307249,0.0 14.716873200000002,44.3130401,0.0 14.734382600000002,44.3022301,0.0 14.749531699999999,44.2881311,0.0 14.7604537,44.2768864,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt5 Von Ist zur Traumbucht</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>26.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[km: 26]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.7601962,44.2769939,0.0 14.758908700000001,44.278453400000004,0.0 14.756913200000001,44.2800357,0.0 14.747965300000002,44.2818177,0.0 14.743073,44.2821864,0.0 14.7355628,44.2806809,0.0 14.7350478,44.2795595,0.0 14.736592800000002,44.2742899,0.0 14.7378802,44.27032590000001,0.0 14.7448969,44.2564498,0.0 14.7512054,44.2461828,0.0 14.7724915,44.2338846,0.0 14.786910999999998,44.2255203,0.0 14.7930908,44.2137099,0.0 14.8070812,44.1658906,0.0 14.806759400000002,44.1629967,0.0 14.8152781,44.155269,0.0 14.818668400000002,44.1495726,0.0 14.823818200000002,44.1450767,0.0 14.833860399999999,44.1392869,0.0 14.8524857,44.1329422,0.0 14.8737717,44.1232081,0.0 14.877548200000001,44.1236394,0.0 14.878492400000003,44.1269664,0.0 14.8738575,44.132511,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt6 Dugi auf Steuerbord</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>51.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Achtung: Schifffahrsroute bei Sali<br><br>km: 51]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.874544099999998,44.1330038,0.0 14.8785782,44.1289995,0.0 14.879007299999998,44.1238242,0.0 14.8739433,44.1224071,0.0 14.832058000000002,44.1392253,0.0 14.817810099999999,44.1496342,0.0 14.817295100000003,44.1562235,0.0 14.8251057,44.1635509,0.0 14.8566055,44.1777105,0.0 14.862527800000002,44.1753098,0.0 14.8739433,44.1697077,0.0 14.8896503,44.1620116,0.0 14.906301499999998,44.1489568,0.0 14.9266434,44.12456360000001,0.0 14.9427795,44.123331300000004,0.0 14.9489594,44.1158141,0.0 14.9487877,44.1116237,0.0 14.956512499999999,44.1086656,0.0 14.9891281,44.0858588,0.0 14.993934599999998,44.0880782,0.0 15.0045776,44.0898044,0.0 15.0419998,44.0293586,0.0 15.054917300000001,44.0165214,0.0 15.078735300000002,44.0030331,0.0 15.0953865,43.9973837,0.0 15.1106643,43.9896035,0.0 15.120792400000001,43.9847866,0.0 15.1286889,43.9694689,0.0 15.1322937,43.9627969,0.0 15.143966699999998,43.9576072,0.0 15.153536800000001,43.9503701,0.0 15.1685787,43.9398875,0.0 15.1712823,43.9375157,0.0 15.1697415,43.9361055,0.0 15.165009699999999,43.9377637,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt7 Meerenge von Mali Ždrelac</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>26.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Achtung: starke Schifffahrt.<br><br>km: 26]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>15.1649355,43.9377951,0.0 15.1664114,43.9366582,0.0 15.171196499999999,43.9356847,0.0 15.1749301,43.9360556,0.0 15.180380299999998,43.93950130000001,0.0 15.187268299999998,43.9447544,0.0 15.2241325,43.9762635,0.0 15.247135200000002,44.0060273,0.0 15.251290999999998,44.014516,0.0 15.253314999999999,44.01649050000001,0.0 15.2588081,44.0189903,0.0 15.2692795,44.0257793,0.0 15.2701378,44.0312099,0.0 15.268592800000002,44.0442907,0.0 15.262584700000001,44.0629198,0.0 15.2461052,44.0907908,0.0 15.231514,44.1063237,0.0 15.2229309,44.1116237,0.0 15.2189398,44.1174162,0.0 15.2226734,44.1195112,0.0 15.226364100000001,44.1181556,0.0 15.228747300000002,44.1187848,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt8 Rückfahrt von Zadar</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>115.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Rückreise<br><br>km: 115]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>15.228767400000002,44.1187179,0.0 15.2260637,44.1181094,0.0 15.2230811,44.1192262,0.0 15.221600500000001,44.1225073,0.0 15.2038765,44.1293075,0.0 15.200443300000002,44.133619800000005,0.0 15.1563263,44.1760485,0.0 15.020713800000001,44.303212900000005,0.0 14.910507200000001,44.425444,0.0 14.836219300000002,44.4848876,0.0 14.7203064,44.6862301,0.0 14.643402100000001,44.7945055,0.0 14.6042633,44.9822851,0.0 14.628295900000001,45.02358360000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-CDDC39-1</styleUrl>
+				<name>Fahrt1 Abfahrt Punat nach Osor</name>
+				<ExtendedData>
+					<Data name='km'>
+						<value>69.0</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[km: 69]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>14.627695100000002,45.0239172,0.0 14.619112000000001,45.0086273,0.0 14.562377900000001,44.944389400000006,0.0 14.4909668,44.8247083,0.0 14.500579799999999,44.7603865,0.0 14.511566200000003,44.7047781,0.0 14.5541382,44.6432541,0.0 14.551391600000002,44.6119787,0.0 14.515686,44.5914452,0.0 14.4580078,44.5992683,0.0 14.427795399999999,44.6432541,0.0 14.4054794,44.6723152,0.0 14.4013596,44.685742,0.0 14.393248600000002,44.69074570000001,0.0 14.3923973,44.6927401,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-CDDC39-1'>
+			<LineStyle>
+				<color>ff39DCCD</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

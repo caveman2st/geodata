@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_239">
+        <Style id="stylesel_64">
+            <LineStyle id="substyle_129">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="substyle_128">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="stylesel_65">
+            <LineStyle id="substyle_131">
+                <color>ffffff00</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="substyle_130">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="stylesel_66">
+            <LineStyle id="substyle_133">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="substyle_132">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <name>PNC geoFencing: active Point in Polygons</name>
+        <Placemark id="feat_240">
+            <name>I am here</name>
+            <description>Lat=48.243911 Lon=16.366882 Alt=0.0&lt;br&gt;2016-06-01 23:49:17</description>
+            <Point id="geom_215">
+                <coordinates>16.3668823242,48.2439105681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>video</name>
+            <address>029_ddsg_wien_donauregulierung_2.wmv</address>
+            <description> 45 Donauregulierung #P=5 Area=11.88ha Act=0sec</description>
+            <styleUrl>#stylesel_64</styleUrl>
+            <Polygon id="geom_216">
+                <outerBoundaryIs>
+                    <LinearRing id="geom_218">
+                        <coordinates>16.3699024085,48.2425494373,0.0 16.3719813024,48.2449136528,0.0 16.3670038885,48.2458130447,0.0 16.3657300956,48.2437564891,0.0 16.3699024085,48.2425494373,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>playlist</name>
+            <address>B_Donaukanal</address>
+            <description> 67 Audioplaylist: B_Donaukanal #P=8 Area=592.14ha Act=59sec</description>
+            <styleUrl>#stylesel_65</styleUrl>
+            <Polygon id="geom_219">
+                <outerBoundaryIs>
+                    <LinearRing id="geom_221">
+                        <coordinates>16.3767528534,48.248797505,0.0 16.3919448853,48.2557698696,0.0 16.3800144196,48.2692546964,0.0 16.3618183136,48.2678263874,0.0 16.3655090332,48.2530267577,0.0 16.3572692871,48.2377083445,0.0 16.3700580597,48.2362219856,0.0 16.3767528534,48.248797505,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>georeference</name>
+            <address>Wien_DDSG.png,200,-70</address>
+            <description> 71 geoScreen Wien #P=5 Area=28781.83ha Act=85sec</description>
+            <styleUrl>#stylesel_66</styleUrl>
+            <Polygon id="geom_222">
+                <outerBoundaryIs>
+                    <LinearRing id="geom_224">
+                        <coordinates>16.6030884,48.1457015,0.0 16.452713,48.2809082,0.0 16.2408829,48.273825,0.0 16.4238739,48.1321841,0.0 16.6030884,48.1457015,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+    <NetworkLinkControl>
+        <minRefreshPeriod>3.6</minRefreshPeriod>
+        <expires>2016-06-01 23:49:17</expires>
+    </NetworkLinkControl>
+</kml>

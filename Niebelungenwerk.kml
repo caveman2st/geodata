@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Bild-Overlay Nibelungenwerk</name>
+	<description>Plan Nibelungenwerk von 1943.
+Transparenz kann im Menü &quot;Eigenschaften&quot; geändert werden.
+http://de.wikipedia.org/wiki/Nibelungenwerk</description>
+	<LookAt>
+		<longitude>14.49904378677497</longitude>
+		<latitude>48.15613011373837</latitude>
+		<altitude>0</altitude>
+		<heading>-34.12254635341515</heading>
+		<tilt>1.154586910134076</tilt>
+		<range>1301.097311966273</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>5cffffff</color>
+	<Icon>
+		<href>https://upload.wikimedia.org/wikipedia/commons/9/9e/Plan_Nibelungenwerk.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>48.15919202511253</north>
+		<south>48.15239441667785</south>
+		<east>14.50957260046958</east>
+		<west>14.48929953644479</west>
+		<rotation>34.27214755688563</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
